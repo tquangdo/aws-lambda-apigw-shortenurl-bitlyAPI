@@ -5,6 +5,8 @@
 ![Forks](https://img.shields.io/github/forks/tquangdo/aws-lambda-apigw-shortenurl-bitlyAPI?color=f05340)
 [![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/aws-lambda-apigw-shortenurl-bitlyAPI/issues/new)
 
+![overview](screenshots/overview.png)
+
 ## reference
 [medium](https://medium.com/velacorpblog/ứng-dụng-aws-lambda-aws-api-gateway-và-nodejs-để-tạo-một-simple-service-1756a695240b)
 
